@@ -1,0 +1,2 @@
+# Draughts
+Java Swing Draughts
